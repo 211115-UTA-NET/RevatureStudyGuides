@@ -1,0 +1,22 @@
+pages to study 12/2 *
+*********************
+
+value-type parameter:
+------------------------------
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/passing-value-type-parameters
+
+
+
+
+reference-type parameter:
+------------------------------
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/passing-reference-type-parameters
+
+https://www.completecsharptutorial.com/basic/referencetype-parameter.php
+
+
+
+
+type parameters and generic class type
+------------------------------
+https://www.tutorialsteacher.com/csharp/csharp-generics
